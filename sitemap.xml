@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://deltarainsjtu.github.io/about/index.html</loc>
+    
+    <lastmod>2020-12-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://deltarainsjtu.github.io/2020/12/21/SJTU%E6%8E%A0%E5%BD%B1/</loc>
     
     <lastmod>2020-12-21</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>http://deltarainsjtu.github.io/sitemap/index.html</loc>
-    
-    <lastmod>2020-12-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://deltarainsjtu.github.io/about/index.html</loc>
     
     <lastmod>2020-12-21</lastmod>
     
